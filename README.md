@@ -77,7 +77,7 @@
 6. GET http://localhost:8080/questions
    [
     {
-        "id": 4,
+        "id": 2,
         "text": "Какой сегодня день недели?",
         "created_at": "2025-11-12T12:46:25.362899Z"
     }
